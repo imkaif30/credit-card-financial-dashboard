@@ -94,7 +94,7 @@ An interactive Power BI dashboard connected to a SQL database for analyzing cred
 ![Transaction Report](Screenshots/Transaction_Report.png)
 
 ### Customer Report
-![Customer Report](Screenshots/Customer_Report.png)
+![Customer Report](Screenshots/Credit_card_customer_report.png)
 
 ---
 
